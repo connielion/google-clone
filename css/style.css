@@ -67,6 +67,7 @@ ul {
 }
 .fa {
     position: relative;
+    background-color: #ccc;
 }
 .fa-search {
     left: 5px;
