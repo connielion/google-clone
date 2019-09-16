@@ -42,7 +42,7 @@ ul {
     justify-content: center;
 }
 
-.container .contents {
+.contents {
     position: absolute;
     top: 100px;
     display: flex;
@@ -109,4 +109,14 @@ button {
     min-width: 54px;
     cursor: pointer;
     border-style: none;
+}
+
+.text {
+    display: flex;
+    justify-content: center;
+}
+
+p {
+    font-size: 10px;
+    margin-left: 20px;
 }
